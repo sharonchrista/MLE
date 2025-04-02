@@ -15,6 +15,7 @@ This repository contains the implementation of a deep learning-based predictive 
 
 ## Repository Structure
 ├── data/ # Contains train.zip and test.zip
+
 ├── notebooks/ # Jupyter Notebook(s) for training and evaluation 
 
 
